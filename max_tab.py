@@ -6,4 +6,4 @@ for i in range(1, len(tab)):
     if tab[i] > max_val:
         max_val = tab[i]
 
-print("Maksymalna wartość w tablicy:", max_val)
+print("Maksymalna wartosc w tablicy:", max_val)
